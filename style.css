@@ -103,3 +103,13 @@ p {
 .links:hover {
     background-color: forestgreen;
 }
+html{
+    scroll-behavior: smoothl;
+}
+a{
+    text-decoration: none;
+
+}
+.article:hover{
+color:darkcyan;    
+}   
